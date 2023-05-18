@@ -18,7 +18,7 @@ function timeWrapper() {
   let trueColorScore = 0;
   let isLastStep = false
 
-  let timeDefault = 60;
+  let timeDefault = 59;
 
   timeElement.textContent = timeDefault;
 
